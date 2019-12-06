@@ -1,3 +1,6 @@
+DAGBÓK\
+
+
 21. nóv
 installed the ubuntu server and started working on
 https://www.howtoforge.com/tutorial/perfect-server-ubuntu-16.04-with-apache-php-myqsl-pureftpd-bind-postfix-doveot-and-ispconfig/
