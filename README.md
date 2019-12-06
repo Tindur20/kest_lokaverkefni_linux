@@ -1,1 +1,0 @@
-# kest_lokaverkefni_linux
