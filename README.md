@@ -1,4 +1,4 @@
-DAGBÓK/
+DAGBÓK
 
 
 21. nóv
