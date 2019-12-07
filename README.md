@@ -36,4 +36,5 @@ fixed the dns and the dhcp so the client get a right ip
 og þanning að www.sigsteinn.local muni virka og það virkar nuna.
 vinna í að setja upp squirrelmail fyrir síðuna
 
-
+7. des
+added samba but i don't know if it is working 
